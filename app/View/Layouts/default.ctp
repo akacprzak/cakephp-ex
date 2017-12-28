@@ -210,8 +210,7 @@ pre {
 
 <section class='container'>
           <hgroup>
-            <h1>Welcome to your CakePHP application on OpenShift</h1>
-            <h2>This text will be displayed after my 1st push!!</h2>
+            <h1>My new test branch!!</h1>
           </hgroup>
 
 
